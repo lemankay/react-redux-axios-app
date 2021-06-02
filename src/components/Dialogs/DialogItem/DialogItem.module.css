@@ -1,0 +1,30 @@
+.dialogsItem {
+ 
+    text-decoration: none;
+  
+}
+.dialog {
+    text-decoration: none;
+}
+.titleh {
+    color: rgb(34, 34, 28);
+}
+   
+  .dialog:hover::after {
+         transform: scale(1);
+      }
+    .dialog::after {
+        content: '';
+        display: block;
+        width: 90%;
+        height: 2px;
+        background-color:black ;
+        transform: scale(0);
+        transition: all 0.3s;
+        pointer-events: none;
+     }
+ 
+
+
+
+

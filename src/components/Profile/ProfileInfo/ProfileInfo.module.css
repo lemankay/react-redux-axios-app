@@ -1,0 +1,25 @@
+
+
+
+
+.see {
+    display: flex;
+    width: 100%;
+    height: 550px;
+  
+  
+   
+}
+.btn {
+   margin-left: 430px;
+}
+.btnImg{
+    flex: 1;
+}
+.btnPrev {
+   flex: 1;   
+}
+ .btnNext {
+    flex: 1;
+}
+

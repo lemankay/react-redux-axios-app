@@ -1,0 +1,51 @@
+.gridStyle {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0px;
+    padding: 0px;
+  
+}
+.gridStyle10 {
+ 
+  
+}
+.gridStyle1 {
+    position: absolut;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    border: 1px solid black; 
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    width: 70%;
+    height: 90%;
+    margin: 3px;
+    padding: 0px;
+}
+.gridStyle2 {
+   
+    padding: 10px;
+    margin: 0px;
+  
+}
+.gridStyle3 {
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    margin: 3px;
+      padding: 0px;
+}
+.nameStatus {
+    display: grid;
+    grid-template-columns: 1fr ;
+   
+}
+
+.imagen {
+    width: 70%;
+    height: 70%;
+    border: 1px solid black; 
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    padding: 0px;
+    margin: 5px;
+}

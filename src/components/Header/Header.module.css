@@ -1,0 +1,59 @@
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+.header {
+    width: 93%;
+    height: 30px;
+    grid-area: h;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  
+    padding: 20px;
+    border-radius: 5.5rem;
+}
+
+.header img {
+    width: 20%;
+    border-radius: 5.5rem;
+    box-shadow: 2px 5px;
+}
+.header h1 {
+  
+    padding: 0px;
+    margin: 0px; 
+    margin-right: 5px;
+    color: rgb(177, 150, 42);     
+    animation: App-logo-spin infinite 3s linear; 
+    text-shadow: 2px 5px;
+    text-align: center;
+}
+.lem {
+    width: 100%;
+    grid-area: h;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+   
+  
+}
+.len h1 {
+  margin-right: 10px;
+     margin-bottom: 50px;
+}
+.loginBlock {
+  float: right;
+}
+.loginBlock a {
+   color: rgb(230, 127, 30);
+   text-decoration: none;
+}
+.loginBlock button {
+  color: rgb(12, 12, 11);
+  text-decoration: none;
+}
+
+ 

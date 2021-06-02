@@ -1,0 +1,19 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 10fr 10fr;
+}
+
+
+.dialog {
+  
+    color: rgb(34, 34, 28); 
+   
+}
+.titleh {
+    color: rgb(34, 34, 28);
+}
+.top{
+   
+    padding-top: 2px;
+}
+

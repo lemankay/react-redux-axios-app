@@ -1,0 +1,22 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 10fr 10fr;
+}
+.dialogsItems {
+    padding: 10px;
+    color: white;
+    
+}
+.dialogsItems a{
+text-decoration: none;
+}
+.messages {
+    padding: 10px;
+    color: white;
+}
+.zik{
+    padding-top: 40px;
+}
+
+
+

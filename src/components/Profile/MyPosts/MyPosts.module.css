@@ -1,0 +1,24 @@
+.postsBlock {   
+    padding: 20px;
+    border-radius: 5.5rem;
+}
+
+.posts {
+    margin-top: 10px;
+    color: brown;
+}
+.postsBlock img {
+    
+     padding: 20px;
+    border-radius: 5.5rem;
+}
+.see {
+    display: grid;
+    grid-template-columns: 30fr 30fr;
+}
+.postsBlock h3 {
+    text-shadow: 2px 2px;
+}
+
+
+

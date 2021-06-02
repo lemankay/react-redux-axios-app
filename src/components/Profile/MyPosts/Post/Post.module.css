@@ -1,0 +1,12 @@
+.item {
+    display: grid;
+    grid-template-columns: 3fr 10fr 5fr ;
+    color: rgb(18, 19, 17);
+}
+
+.item img {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+   
+}
